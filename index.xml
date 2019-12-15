@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrik on Tech</title>
+    <link>http://patrikturi.com/</link>
+    <description>Recent content on Patrik on Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Patrik Túri</copyright>
+    
+	<atom:link href="http://patrikturi.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://patrikturi.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://patrikturi.com/about/</guid>
+      <description>Hi 👋
+My name is Patrik Túri, currently I work as a full-stack developer but that wasn&#39;t always the case.
+I enjoy creating web apps and games. I am also keen on learning more and improving my skills all the time.
+Github
+LinkedIn
+Contact: patrik.turi.0xff at gmail dot com</description>
+    </item>
+    
+  </channel>
+</rss>
