@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://patrikturi.com/about/</loc>
+    <loc>http://patrikturi.com/posts/introduction/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://patrikturi.com/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrikturi.com/posts/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrikturi.com/about/</loc>
   </url>
   
   <url>
