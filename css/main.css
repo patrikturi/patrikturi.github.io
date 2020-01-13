@@ -262,7 +262,8 @@ ul {
 }
 
 .header .site-description nav ul svg {
-    max-height: 15px;
+    max-height: 1.25em;
+    margin-left: 0.5em;
 }
 
 .section .section-header {
@@ -382,6 +383,12 @@ ul {
 
 .pagination .page-item.page-next {
     text-align: right;
+}
+
+.subtitle-icon {
+    height: 1.1em;
+    display: inline;
+    margin: 0 5px;
 }
 
 @media (max-width: 767px) {
