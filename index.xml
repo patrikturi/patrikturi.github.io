@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Patrik Túri</copyright>
-    <lastBuildDate>Sat, 14 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://patrikturi.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>StarCraft Applied to Software Development</title>
+      <link>http://patrikturi.com/posts/starcraft-applied/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://patrikturi.com/posts/starcraft-applied/</guid>
+      <description>StarCraft 2 is one of the most difficult one versus one games. What can you learn from Starcraft and how does that help you become a better software developer?
+Three Pillars of the Craft To be great at the game, one needs to master three areas:
+ Game knowledge - Learn about SOLID principles and clean code. Know what you are doing. Execution of the strategy - There is no use of theory if you can not apply it.</description>
+    </item>
     
     <item>
       <title>Introduction</title>

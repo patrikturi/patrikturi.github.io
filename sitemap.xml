@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://patrikturi.com/posts/introduction/</loc>
-    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://patrikturi.com/</loc>
-    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://patrikturi.com/posts/</loc>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrikturi.com/posts/starcraft-applied/</loc>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patrikturi.com/posts/introduction/</loc>
     <lastmod>2019-12-14T00:00:00+00:00</lastmod>
   </url>
   
