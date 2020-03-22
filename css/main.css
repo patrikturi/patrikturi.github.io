@@ -416,3 +416,56 @@ ul {
         margin-top: 10px;
     }
 }
+
+/* Projects */
+
+.projects {
+    margin-top: 1em;
+}
+
+.project-summary {
+    width: 240px;
+    height: 340px;
+    /* border: 1px solid #ccc; */
+    padding: 0;
+    margin: 10px 5px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.project-summary img {
+    width: 240px;
+    height: 240px;
+    margin: 0;
+}
+
+.project-summary-text {
+    padding: 10px;
+    padding-bottom: 0;
+    height: 100px;
+}
+
+.project-description {
+    font-size: 15px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.project-header .title {
+    display: inline-block;
+}
+
+#project-header-meta {
+    display: inline-block;
+    margin: 0;
+}
+
+.project iframe {
+    border-style: none;
+    border-width: 0;
+    width: 100%;
+}
+
+.project-instructions {
+    margin-bottom: 1rem;
+}
