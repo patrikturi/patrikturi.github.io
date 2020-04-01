@@ -270,13 +270,12 @@ ul {
     font-size: 1.1rem;
     font-weight: 600;
     text-transform: uppercase;
-    color: #999;
     margin-bottom: 20px;
     letter-spacing: 1px;
 }
 
 .recent-posts .posts .post {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 .recent-posts .posts .post .meta,
@@ -284,7 +283,7 @@ ul {
 .list .posts .post .meta {
     font-size: 17px;
     font-weight: bold;
-    color: #999;
+    color: #333333ad;
     margin-bottom: 4px;
 }
 
@@ -443,6 +442,22 @@ ul {
     margin: 0;
 }
 
+.projects-thumb-only {
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 120px;
+}
+
+.project-thumb {
+    width: 240px;
+    height: 240px;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    vertical-align: top;
+}
+
 .project-summary-text {
     padding: 10px;
     padding-bottom: 0;
@@ -472,4 +487,17 @@ ul {
 
 .project-instructions {
     margin-bottom: 1rem;
+}
+
+.post-summary .meta {
+    display: inline-block;
+    min-width: 110px;
+}
+
+.posts {
+    margin-bottom: 40px;
+}
+
+.post-summary {
+    line-height: 1.4;
 }
